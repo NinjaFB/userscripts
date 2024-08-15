@@ -6,8 +6,6 @@
 // @version     1.0
 // @author      Oscar Ronberg
 // @description 8/14/2024, 9:06:14 AM
-// @downloadURL https://github.com/NinjaFB/userscripts/raw/master/scienceflip.user.js
-// @updateURL	https://github.com/NinjaFB/userscripts/raw/master/scienceflip.user.js
 // ==/UserScript==
 
 const images = document.querySelectorAll("img[src^='https://drive.google.com']");
